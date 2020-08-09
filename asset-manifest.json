@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactAntApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactAntApp/static/js/main.2b76c517.chunk.js",
+    "main.js.map": "/ReactAntApp/static/js/main.2b76c517.chunk.js.map",
+    "runtime-main.js": "/ReactAntApp/static/js/runtime-main.efa6be86.js",
+    "runtime-main.js.map": "/ReactAntApp/static/js/runtime-main.efa6be86.js.map",
+    "static/js/2.2fe3ca1a.chunk.js": "/ReactAntApp/static/js/2.2fe3ca1a.chunk.js",
+    "static/js/2.2fe3ca1a.chunk.js.map": "/ReactAntApp/static/js/2.2fe3ca1a.chunk.js.map",
+    "index.html": "/ReactAntApp/index.html",
+    "precache-manifest.acf1394010eabf73c254feb98f4f19b5.js": "/ReactAntApp/precache-manifest.acf1394010eabf73c254feb98f4f19b5.js",
+    "service-worker.js": "/ReactAntApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactAntApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2fe3ca1a.chunk.js.LICENSE.txt": "/ReactAntApp/static/js/2.2fe3ca1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactAntApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa6be86.js",
+    "static/js/2.2fe3ca1a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2b76c517.chunk.js"
+  ]
+}
